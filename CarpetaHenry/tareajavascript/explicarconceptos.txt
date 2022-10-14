@@ -1,0 +1,12 @@
+variables
+una variable es un valor, como por ejemplo un numero, que queda guardado a partir de una palabra que recordemos.
+por ejemplo, la edad de una persona
+strings
+es un tipo de variable, que debe ir entre comillas "" 
+funciones (argumentos, return)
+un argumento es una propiedad que intenta demostrar, de manera verdadera o falsa, una afirmacion
+en el caso de que el argumento sea valido, la funcion return nos devolvera la palabra true, indicando que el argumento es verdadero.
+declaraciones if
+es la condicion que debe cumplirse, que estara dentro del argumento
+valores booleanos (true, false)
+true y false son los posibles resultados de un dato booleano, solo hay dos opciones, que se cumpla la condicion que establecimos, retornando true, o que no se cumpla, retornando false.
